@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
-
 app = FastAPI()
+
 TAREFAS = [{
         "id": "1",
         "titulo": "fazer compras",
